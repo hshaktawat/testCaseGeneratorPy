@@ -1,0 +1,27 @@
+All test cases must include:
+- Title
+- Type
+- Section
+- Precondition
+- Test Data
+- Steps
+- Expected Result
+- Priority
+- Automated
+- Status
+
+Test ID Format:
+<Section>-<Feature>-<Number>
+Example: LOGIN-AUTH-001
+
+Severity Rules:
+P0 priority -> High
+Security issue → High
+Broken flow → High
+UI misalignment → Low
+Validation issue → Medium
+
+Always include:
+- Boundary cases
+- Negative cases
+- Error message validation
