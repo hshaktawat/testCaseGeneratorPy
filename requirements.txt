@@ -1,5 +1,6 @@
-
 streamlit
 pandas
 simplejson
 autogen
+ollama
+fix-busted-json
